@@ -1,0 +1,22 @@
+{
+  "tareas": [
+    {
+      "id": "1764085031399",
+      "titulo": "Hacer ejercicio",
+      "descripcion": "30 minutos de cardio",
+      "prioridad": "baja",
+      "completada": true,
+      "fechaCreacion": "2025-11-25T15:37:11.399Z",
+      "fechaCompletada": "2025-11-25T15:37:11.404Z"
+    },
+    {
+      "id": "1764085031400",
+      "titulo": "Revisar código",
+      "descripcion": "Code review del proyecto",
+      "prioridad": "alta",
+      "completada": true,
+      "fechaCreacion": "2025-11-25T15:37:11.400Z",
+      "fechaCompletada": "2025-11-25T15:37:11.418Z"
+    }
+  ]
+}

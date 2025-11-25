@@ -1,22 +1,112 @@
 {
+  "0": {
+    "id": "1764103529664",
+    "titulo": "Practicar módulos",
+    "descripcion": "Crear sistema modular",
+    "prioridad": "media",
+    "completada": true,
+    "fechaCreacion": "2025-11-25T20:45:29.664Z",
+    "fechaCompletada": "2025-11-25T20:45:29.696Z"
+  },
+  "1": {
+    "id": "1764103529665",
+    "titulo": "Revisar código",
+    "descripcion": "Code review del proyecto",
+    "prioridad": "alta",
+    "completada": true,
+    "fechaCreacion": "2025-11-25T20:45:29.665Z",
+    "fechaCompletada": "2025-11-25T20:45:29.720Z"
+  },
   "tareas": [
     {
-      "id": "1764085031399",
-      "titulo": "Hacer ejercicio",
-      "descripcion": "30 minutos de cardio",
-      "prioridad": "baja",
+      "id": "1764103610527",
+      "titulo": "Aprender Node.js",
+      "descripcion": "Completar tutoriales de fundamentos",
+      "prioridad": "alta",
       "completada": true,
-      "fechaCreacion": "2025-11-25T15:37:11.399Z",
-      "fechaCompletada": "2025-11-25T15:37:11.404Z"
+      "fechaCreacion": "2025-11-25T20:53:13.709Z",
+      "fechaCompletada": "2025-11-25T20:53:13.709Z"
     },
     {
-      "id": "1764085031400",
+      "id": "1764103610528",
+      "titulo": "Practicar módulos",
+      "descripcion": "Crear sistema modular",
+      "prioridad": "media",
+      "completada": true,
+      "fechaCreacion": "2025-11-25T20:53:13.710Z",
+      "fechaCompletada": "2025-11-25T20:53:13.710Z"
+    },
+    {
+      "id": "1764103610529",
       "titulo": "Revisar código",
       "descripcion": "Code review del proyecto",
       "prioridad": "alta",
       "completada": true,
-      "fechaCreacion": "2025-11-25T15:37:11.400Z",
-      "fechaCompletada": "2025-11-25T15:37:11.418Z"
+      "fechaCreacion": "2025-11-25T20:53:13.710Z",
+      "fechaCompletada": "2025-11-25T20:53:13.710Z"
+    },
+    {
+      "id": "1764103987128",
+      "titulo": "Practicar módulos",
+      "descripcion": "Crear sistema modular",
+      "prioridad": "media",
+      "completada": true,
+      "fechaCreacion": "2025-11-25T20:53:13.710Z",
+      "fechaCompletada": "2025-11-25T20:53:13.710Z"
+    },
+    {
+      "id": "1764103987129",
+      "titulo": "Revisar código",
+      "descripcion": "Code review del proyecto",
+      "prioridad": "alta",
+      "completada": true,
+      "fechaCreacion": "2025-11-25T20:53:13.710Z",
+      "fechaCompletada": "2025-11-25T20:53:13.710Z"
+    },
+    {
+      "id": "1764103992137",
+      "titulo": "Revisar código",
+      "descripcion": "Code review del proyecto",
+      "prioridad": "alta",
+      "completada": true,
+      "fechaCreacion": "2025-11-25T20:53:13.711Z",
+      "fechaCompletada": "2025-11-25T20:53:13.711Z"
+    },
+    {
+      "id": "1764103993716",
+      "titulo": "Aprender Node.js",
+      "descripcion": "Completar tutoriales de fundamentos",
+      "prioridad": "alta",
+      "completada": true,
+      "fechaCreacion": "2025-11-25T20:53:13.716Z",
+      "fechaCompletada": "2025-11-25T20:53:13.766Z"
+    },
+    {
+      "id": "1764103993718",
+      "titulo": "Practicar módulos",
+      "descripcion": "Crear sistema modular",
+      "prioridad": "media",
+      "completada": true,
+      "fechaCreacion": "2025-11-25T20:53:13.718Z",
+      "fechaCompletada": "2025-11-25T20:53:13.788Z"
+    },
+    {
+      "id": "1764103993720",
+      "titulo": "Hacer ejercicio",
+      "descripcion": "30 minutos de cardio",
+      "prioridad": "baja",
+      "completada": false,
+      "fechaCreacion": "2025-11-25T20:53:13.720Z",
+      "fechaCompletada": null
+    },
+    {
+      "id": "1764103993721",
+      "titulo": "Revisar código",
+      "descripcion": "Code review del proyecto",
+      "prioridad": "alta",
+      "completada": false,
+      "fechaCreacion": "2025-11-25T20:53:13.721Z",
+      "fechaCompletada": null
     }
   ]
 }
